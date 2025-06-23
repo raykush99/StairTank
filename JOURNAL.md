@@ -4,7 +4,7 @@ author: "Kush Ray"
 description: "A tank style RC car with camera that is able to go up and down stairs"
 created_at: "2025-06-14"
 ---
-**Total time spent: 10.5**
+**Total time spent: 12.5**
 
 **Day 1 June  13**       
 
@@ -42,4 +42,9 @@ My second work session on the 20th included me making the circuit diagram. I fou
 ![image](https://github.com/user-attachments/assets/db19ce81-5275-4bf9-ab6d-22fa1a068965)                
 **Time spent: 2 hours**
 
-
+**Day 6 June 23**           
+Today, I decided to add my motors and batteries into the CAD. Originally, I tried to find models of the motors I could upload, but I wasn't able to find any. Instead, I decided to use the scematics given to make my own simple model of the servos, DC motors, and battery. After desgining each piece, I added it to the master assembly to see if it would fit. The DC motor and servo barely overlap with a few curved pieces, but this is fine since I can slightly change the curvature of the ABS while making it to fit the motors. I also added a simple mount for the servo to rest on and a piece to attach the servo shaft to the secondard tread piece. Finnally, I decided to customize the colors of each piece to what it would look like with the real materials, letting me finally finish the CAD for the stair tank.             
+![image](https://github.com/user-attachments/assets/63faf58e-e27e-4e0e-ae77-bc1538ede891)
+![image](https://github.com/user-attachments/assets/b6300b54-02c8-4fda-8237-e4a0409fa547)
+![image](https://github.com/user-attachments/assets/0de8ce34-d16a-4db9-bc4f-6f852c96a8a7)       
+**Time spent: 2 hours**
