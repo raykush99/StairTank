@@ -4,18 +4,22 @@ author: "Kush Ray"
 description: "A tank style RC car with camera that is able to go up and down stairs"
 created_at: "2025-06-14"
 ---
-**Total time spent: 12.5**
+**Total time spent: 13**
 
 **Day 1 June  13**       
 
-Today I began my researching different methods of building a stair climbing robot. The main method I found was a modular robot in which each section could lift up one by one to climb stairs one at a time. I did not use this since I wanted to be able to place items on the top of my robot, and this would make that difficult. I wondered if there was a way the robot could directly go over the stairs, but that would require wheels bigger than 8 inches in raduis. I then had the idea of using tank treads. However, that would still need very long treads. Instead, I decided to make a way to expand the size of the treads, by including another set that can come out of the body of the robot. I used some spare LEGO pieces to make a quick prototype of the tread design, making sure it would work. After much trial and error, I found that including studs on the tracks helped it hold onto the stairs better. I also concluded that keeping a 45 degree angle was most effective in getting the treads to initially pull the robot up.        
+Today I began my researching different methods of building a stair climbing robot. The main method I found was a modular robot in which each section could lift up one by one to climb stairs one at a time. I did not use this since I wanted to be able to place items on the top of my robot, and this would make that difficult. I wondered if there was a way the robot could directly go over the stairs, but that would require wheels bigger than 8 inches in raduis. I then had the idea of using tank treads. However, that would still need very long treads. Instead, I decided to make a way to expand the size of the treads, by including another set that can come out of the body of the robot. I used some spare LEGO pieces to make a quick prototype of the tread design, making sure it would work. After much trial and error, I found that including studs on the tracks helped it hold onto the stairs better. I also concluded that keeping a 45 degree angle was most effective in getting the treads to initially pull the robot up.    
+![image](https://github.com/user-attachments/assets/894dda9d-bd02-4bb8-83fe-144a8931721f)             
+
 **Time spent: 1.5 hours**
 
 **Day 2 June 16**             
 Today I began working on the CAD. I knew the tank had to be large to climb the stairs, so I decided to make it 18" x 12" x 12". I started making the panel that would hold the treads, and added fillets on the corners so the treads would be completly flush against the panel. I also added an extra hole in case the treads need to be tensioned. Next, I make a simple CAD of the wheel as well as making the axles. I did the same thing to make the panels for the expanding treads, and made panels to connect the two tread panels together to get a basic form of the tank. I assembled all the parts together to see how the second treads would flip out from the front. One hard part was making the curved panels since they had to be the right angle and radius to work. I managed to use the sketch of the tread panels as reference for the radius and angle to make the curves panels.            
 ![image](https://github.com/user-attachments/assets/36f6bd73-8636-438a-b25a-d29ca3d39184)
-![image](https://github.com/user-attachments/assets/a206e337-7992-4b2d-9bed-e0235a2d2a1b)            
-**Time spent: 2.5 hours**
+![image](https://github.com/user-attachments/assets/a206e337-7992-4b2d-9bed-e0235a2d2a1b)      
+![image](https://github.com/user-attachments/assets/a9f3a53e-df7a-43a4-9faa-80a03df92c5a)      
+
+**Time spent: 3 hours**
 
 **Day 3 June 17**             
 Today was mainly for finding the parts to build the tank. I decided to use lego treads, since they could be fit to any size, and I was able to add grip stubs on them to help climb the stairs. Doing some research, I also found that the L298N board was best for controlling the direction and speed of two motors. I also decied that a 35T motor would give the best torque and spped for the tank, and found a rechargable 12V battery to use. The last thing I thought of was how to flip the secondary treads. I decided on a servo motor since it would be best on keeping a 45 degree angle with the stairs. I also found strong servos to be able to lift the secondary treads.           
